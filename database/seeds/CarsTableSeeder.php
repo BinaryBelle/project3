@@ -5,6 +5,7 @@ use Illuminate\Database\Seeder;
 class CarsTableSeeder extends Seeder
 {
     /**
+    
      * Run the database seeds.
      *
      * @return void
